@@ -1,6 +1,6 @@
 # Site Settings
 # Do not use trailing slash (i.e. "/Sample"). For skipping base URL, leave empty quotes ("")
-baseurl: "/Grape-Academic-Theme"
+baseurl: "ilksentpc.github.io"
 
 # Features Setting
 # Turn subpages on or off
